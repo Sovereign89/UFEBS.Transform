@@ -1,0 +1,12 @@
+/UFEBS.Transform.DLL/bin
+/CheckUFEBSDll/bin
+/DelphiHandleDll/Win64
+/DelphiHandleDll/Win32
+/DelphiHandleDll/*.identcache
+/DelphiHandleDll/DelphiHandleDll.dproj.local
+/DelphiHandleDll/__history
+/UFEBS.Transform.DLL/.vs
+/UFEBS.Transform.DLL/obj/Release
+/UFEBS.Transform.DLL/obj/Debug
+/CheckUFEBSDll/obj/Release
+/CheckUFEBSDll/obj/Debug
